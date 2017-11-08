@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Green Clock</string>
+    <string name="button_title">Start Timer</string>
+</resources>
